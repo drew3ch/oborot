@@ -1,0 +1,12 @@
+.form-control, .btn-primary {
+	margin-bottom: 10px;
+}
+.btn-primary {
+	color: #fff !important;
+}
+*:invalid {
+  color: red;
+}
+ul {
+	margin-bottom: 0;
+}
