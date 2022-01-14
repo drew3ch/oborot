@@ -5,7 +5,6 @@ class Animal
     public $countCaw;
     public $countChicken;
     public function __construct($countCaw, $countChicken) // __construct дает возможность проинициализировать класс
-    
     {
         $this->countCaw = $countCaw;
         $this->countChicken = $countChicken;
